@@ -43,10 +43,13 @@ Skills
   * IELTS: 7
   * CET-6: 627
 * Programming
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Python
+  * MATLAB
+  * C
+  * C++
+  * HTML
+  * SQL
+
 
 Publications
 ======
