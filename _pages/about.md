@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is not a personal introduction"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
