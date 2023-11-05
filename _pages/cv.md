@@ -50,10 +50,14 @@ Skills
 
 Publications
 ======
-[1] Bensoussan A, Han J*, Yam S C P, Zhou X. Value-Gradient Based Formulation of Optimal Control Problem and Machine Learning Algorithm[J]. SIAM Journal on Numerical Analysis, 2023, 61(2): 973-994.\\
-[2] Han J, Cai Z*, Wu Z, Zhou X. Residual-Quantile Adjustment for Adaptive Training of Physics-informed Neural Network[C], 2022 IEEE International Conference on Big Data. IEEE, 2022: 921-930.\\
-[3] Wu C, Han J, Li X*. Time-asymmetric 3d convolutional neural networks for action recognition[C], 2019 IEEE International Conference on Image Processing (ICIP). IEEE, 2019: 21-25.\\
-[4] Li X*, Zhu Y, Han J, et al. TDCC: top‐down semantic aggregation for color constancy[J]. IET Image Processing, 2019, 13(11): 1944-1950.\\
+[1] Bensoussan A, Han J*, Yam S C P, Zhou X. Value-Gradient Based Formulation of Optimal Control Problem and Machine Learning Algorithm[J]. SIAM Journal on Numerical Analysis, 2023, 61(2): 973-994.  
+
+[2] Han J, Cai Z*, Wu Z, Zhou X. Residual-Quantile Adjustment for Adaptive Training of Physics-informed Neural Network[C], 2022 IEEE International Conference on Big Data. IEEE, 2022: 921-930.  
+
+[3] Wu C, Han J, Li X*. Time-asymmetric 3d convolutional neural networks for action recognition[C], 2019 IEEE International Conference on Image Processing (ICIP). IEEE, 2019: 21-25.  
+
+[4] Li X*, Zhu Y, Han J, et al. TDCC: top‐down semantic aggregation for color constancy[J]. IET Image Processing, 2019, 13(11): 1944-1950.  
+
 [5] Li X*, Zhu Y, Han J, et al. TDCC: Top-Down Semantic Aggregation for Color Constancy[C]. ICME 2019: 1246-1251.
 
 Talks
