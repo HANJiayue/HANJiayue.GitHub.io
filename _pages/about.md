@@ -10,5 +10,5 @@ redirect_from:
 
 I am a PHD student of [Dr. XiangZhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm).
 
-![hi](/images/editing-talk.png)
+![hi](/images/hi.jpg)
 
